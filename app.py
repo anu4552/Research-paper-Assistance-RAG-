@@ -1,4 +1,4 @@
-# ✅ app.py – Backend for CV Generator with HTML Templating + Ollama Summary + DOCX + PDF
+#  app.py – Backend Ollama Summary + DOCX + PDF
 
 from flask import Flask, request, jsonify, send_file, send_from_directory
 from flask_cors import CORS
